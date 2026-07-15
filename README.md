@@ -23,7 +23,7 @@ This project is an interactive Netflix Data Analysis Dashboard built using Table
 #### Dashboard Design
 
 ## Dataset
-
+< a href="https://github.com/bittusah213/Netflix-Data-Analysis-Dashboard-Tableau/blob/main/Netflix%20Dataset.txt","Dataset">
 
 ## Dashboard Features
 ### Interactive Filters
