@@ -83,6 +83,6 @@ Examples include:
 #### Netflix experienced rapid growth in content additions between 2016 and 2019.
 #### Interactive filters allow users to quickly explore specific titles and their details.
 
-<h2>Dashboard Preview</h2>
 
-<img src="" alt="Netflix Dashboard" width="900"/>
+
+<img src="https://github.com/bittusah213/Netflix-Data-Analysis-Dashboard-Tableau/blob/main/Screenshot%202026-07-15%20142559.png" alt="Netflix Dashboard" width="900"/>
